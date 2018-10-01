@@ -1,3 +1,3 @@
 
-Conference Website for FVO
+A Conference Landing Page written developed with HTML, CSS & Bootstrap
 
